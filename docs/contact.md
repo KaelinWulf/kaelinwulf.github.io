@@ -1,9 +1,12 @@
+---
 layout: page
 title: "Contact"
-permalink: /contact
-
-615 Westlake Ave N
+permalink: /contact/
+---
+Westlake Ave N  
 Seattle, WA 98109  
 
-**Email**
+**Email**  
 kaelin.wulf@alleninstitute.org
+
+

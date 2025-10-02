@@ -1,18 +1,10 @@
 ---
 layout: page
+# layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![](/../images/photoshoot2.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a post-bacc at the Allen Institute for Neural Dynamics on the multi-scale neuroanatomy team. I am currently working on the development, testing, documentation, and operation of the ExA-SPIM, a large-scale light-sheet microscope for imaging whole expanded mouse brains. Before joining the institute, I worked as an undergraduate researcher in the Neuroscience department at Reed College where my senior thesis involved volumetric light-sheet time-lapse imaging to study neuron-glia interaction in the developing zebrafish visual system. I’m broadly interested in the development of imaging instruments for questions in biology and neuroscience. 
