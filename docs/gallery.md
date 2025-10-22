@@ -2,7 +2,7 @@
 layout: page
 title: "Gallery"
 permalink: /gallery/
-Order: 5
+order: 5
 ---
 
 ![](/../images/IMG_2365.jpg)

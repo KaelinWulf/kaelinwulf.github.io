@@ -9,6 +9,6 @@ layout: home
 
 I am an aspiring researcher and microscopist with a background in neuroscience and light-sheet fluorescence microscopy.  
 
-Click through the tabs above to learn about me, research I’ve participated in, or just to see pretty brain and microscope images. 
+Click through the tabs above to learn about me, research I’ve participated in, or just to see pretty brain and microscope images! 
 
 (This website is currently a work-in-progress)
