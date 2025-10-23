@@ -2,7 +2,7 @@
 layout: page
 title: "Zebrafish Optic Tectum"
 permalink: /tectum/
-order: 3
+order: 4
 ---
 
 During my last year at Reed, I completed a 10 week summer research fellowship, followed by a year long senior thesis project under the mentorship of Kara Cerveny. In both projects, I was using timelapse light-sheet microscopy to study the development of the optic tectum (OT) in zebrafish larvae and how innervation from the optic nerve influences the dynamics cellular processes of OT neurons and glial cells.  
@@ -11,7 +11,6 @@ The OT is the main retino-recipient area of the zebrafish brain (analogous to th
 
 [image diagram of innervation] 
 
- 
 
 In my summer research fellowship, I was using the Lakritz (lak) mutant model that fails to develop RGCs, as well as a denervated model that has one eye removed during development. We were mainly studying the resulting apoptotic cell death in the OT, and the dynamics of microglia in relation to this cell death. Microglia are resident phagocytic immune cells in the brain, that engulf and digest pathogens, damaged tissue, and apoptotic cells. We found that denervated larvae showed increased cell death and microglia phagocytosis. Additionally, we were able to get clear 3D timelapse videos that showed the behavior and localization of OT-resident microglia as they cleared optic nerve debris, allowing us to make qualitative inferences about their activation states and role in injury response and development. I presented this work at the Faculty for Undergraduate Neuroscience poster session during SFN 2023. The poster can be found [here](). 
 

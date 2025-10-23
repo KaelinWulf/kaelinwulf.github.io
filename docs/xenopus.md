@@ -2,7 +2,7 @@
 layout: page
 title: "X. laevis Neuronal Anatomy"
 permalink: /xenopus/
-order: 4
+order: 5
 ---
 
 In the summer of 2022, I did my first summer neuroscience research fellowship at Reed under the mentorship of Erik Zornik. The Zornik lab focuses on the vocal-motor circuit of the Xenopus laevis African clawed frog and the sexual dimorphism in the circuits and vocal behavior that exists between male and female frogs. This sexual dimorphism is influenced by the steroid hormones of the frogs, with male vocal calls able to be induced in females through exposure to androgens (testosterone). I was interested in the anatomy of this circuit and changes that might occur on the cellular level in the brain due to androgen exposure.  
