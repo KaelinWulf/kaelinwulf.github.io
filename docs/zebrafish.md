@@ -4,6 +4,7 @@ title: "Zebrafish Optic Tectum"
 permalink: /tectum/
 order: 4
 ---
+![](/../images/WOAt1a5.png)
 
 During my last year at Reed, I completed a 10 week summer research fellowship, followed by a year long senior thesis project under the mentorship of Kara Cerveny. In both projects, I was using timelapse light-sheet microscopy to study the development of the optic tectum (OT) in zebrafish larvae and how innervation from the optic nerve influences the dynamics cellular processes of OT neurons and glial cells.  
 
@@ -16,8 +17,16 @@ In my summer research fellowship, I was using the Lakritz (lak) mutant model tha
 
 [Video of microglia and annexin] 
 
+{% include video.html
+   src="/images/nerveGrowthCrop_WOAt3b2.mp4"
+   caption="Demo of the feature"
+   autoplay=false
+%}
  
 
 My senior thesis continued some of the questions about microglia and cell death from the previous summer, but I was also focused on oligodendrocyte progenitor cells (OPCs), and their potential role in mediating the growth and proper mapping of the optic nerve to the OT.  There is a lack of research into OPCs, but we know they form synapses with neurons and are important for cell-cell communication, and that they participate in refining neural circuits by engulfing synapses. OPCs have also been shown to be important for the initial targeting of the optic nerve into the OT, and the refinement of the retinotopic map through pruning of the RGC axonal arbors. 
+
+![Video](/../images/nerveGrowthCrop_WOAt3b2.mp4)
+![](/../images/WOAt3b2_multipart_60umStack (1).png)
 
 I was interested in using the advantages of live-cell light-sheet timelapse microscopy to visualize OPC localization, migration, anatomy, and how they interact with RGC axons. As well as how these aspects might be different without the presence of RGCs. In my thesis, I discovered and described in detail the migration of a subpopulation of OPCs alongside RGC axon growth into the OT, as well as differences in the number of OPCs and qualitative differences in structure between lak mutants and wildtype. If you’re interested in learning more, my thesis can be read [here](https://github.com/KaelinWulf/kaelinwulf.github.io/blob/gh-pages/docs/Glial%20Cell%20Dynamics%20in%20the%20Zebrafish%20Optic%20Tectum.pdf). Additionally, this work was presented as a poster at the North West Developmental Biology meeting which can be viewed [here](). 
