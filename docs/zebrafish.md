@@ -17,6 +17,11 @@ In my summer research fellowship, I was using the Lakritz (lak) mutant model tha
 
 [Video of microglia and annexin] 
 
+{% include video.html
+   src="/images/nerveGrowthCrop_WOAt3b2.mp4"
+   caption="Demo of the feature"
+   autoplay=false
+%}
  
 
 My senior thesis continued some of the questions about microglia and cell death from the previous summer, but I was also focused on oligodendrocyte progenitor cells (OPCs), and their potential role in mediating the growth and proper mapping of the optic nerve to the OT.  There is a lack of research into OPCs, but we know they form synapses with neurons and are important for cell-cell communication, and that they participate in refining neural circuits by engulfing synapses. OPCs have also been shown to be important for the initial targeting of the optic nerve into the OT, and the refinement of the retinotopic map through pruning of the RGC axonal arbors. 
