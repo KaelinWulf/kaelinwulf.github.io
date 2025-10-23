@@ -1,0 +1,18 @@
+<figure class="video">
+  <video
+    {% if include.autoplay %}autoplay muted playsinline loop{% endif %}
+    controls
+    preload="{{ include.preload | default: 'metadata' }}"
+    width="100%"
+    poster="{{ include.poster | default: '' | relative_url }}"
+  >
+    <source src="{{ include.src | relative_url }}" type="video/mp4">
+    {% if include.track %}
+    <track kind="captions" srclang="{{ include.track_lang | default: 'en' }}"
+           label="{{ include.track_label | default: 'Captions' }}"
+           src="{{ include.track | relative_url }}">
+    {% endif %}
+    Your browser does not support the video tag.
+  </video>
+  {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>
