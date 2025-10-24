@@ -2,7 +2,7 @@
 layout: page
 title: "Zebrafish Optic Tectum"
 permalink: /tectum/
-order: 4
+nav_exclude: true
 ---
 ![](/../images/WOAt1a5.png)
 

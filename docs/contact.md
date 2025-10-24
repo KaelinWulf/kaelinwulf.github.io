@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 permalink: /contact/
-order: 6
+order: 5
 ---
 Westlake Ave N  
 Seattle, WA 98109  
