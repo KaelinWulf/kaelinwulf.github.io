@@ -15,8 +15,8 @@ order: 3
 ![](/images/xenopus_brain.jpg)
 
 
-<a href="{{ '/pdfs/NWDB-2024-Poster.pdf' | https://kaelinwulf.github.io/projects/ }}" target="_blank">
-  <img src="{{ '/images/week2_pbx.jpg' | https://kaelinwulf.github.io/works/ }}" 
+<a href="{{ '/pdfs/NWDB-2024-Poster.pdf' | relative_url }}" target="_blank">
+  <img src="{{ '/images/week2_pbx.jpg' | relative_url }}" 
        alt="My PDF thumbnail"
        style="width:200px; border:1px solid #ccc; border-radius:8px;">
 </a>
