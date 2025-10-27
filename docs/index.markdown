@@ -6,6 +6,7 @@ layout: home
 # layout: default
 
 ---
+![](/images/CyanHot_17.png)
 
 I am an aspiring researcher and microscopist with a background in neuroscience and light-sheet fluorescence microscopy.  
 
