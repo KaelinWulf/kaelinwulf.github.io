@@ -8,8 +8,6 @@ layout: home
 ---
 ![](/images/CyanHot_17.png)
 
-I am an aspiring researcher and microscopist with a background in neuroscience and light-sheet fluorescence microscopy.  
+Welcome to my personal website. I am an aspiring researcher and microscopist with a background in neuroscience and light-sheet fluorescence microscopy.  
 
-Click through the tabs above to learn about me, research I’ve participated in, or just to see pretty brain and microscope images! 
-
-(This website is currently a work-in-progress)
+Click through the tabs above to learn about me, research projects I’ve participated in, or just to see pretty brain and microscope images! 
