@@ -5,18 +5,15 @@ permalink: /projects/
 order: 3
 ---
 
-[ExA-SPIM](/exaspim/)
-![](/images/CyanHot_24.png)
+[Expansion-assisted Selective Plane Illumination Microscopy (ExA-SPIM)](/exaspim/)
+![](/images/CyanHot_24.png){: width="370" }
+
+<br>
 
 [Glial Cell Dynamics in Zebrafish Optic Tectum Development](/tectum/)
-![](images/WOAt3b2_eye_10umStack.png)
+![](images/WOAt3b2_eye_10umStack.png){: width="350" }
+
+<br>
 
 [Vocal Motor Circuit Anatomy in *Xenopus laevis*](/xenopus/)
-![](/images/xenopus_brain.jpg)
-
-
-<a href="{{ '/pdfs/NWDB-2024-Poster.pdf' | relative_url }}" target="_blank">
-  <img src="{{ '/images/week2_pbx.jpg' | relative_url }}" 
-       alt="My PDF thumbnail"
-       style="width:200px; border:1px solid #ccc; border-radius:8px;">
-</a>
+![](/images/xenopus_brain.jpg){: width="370" }
