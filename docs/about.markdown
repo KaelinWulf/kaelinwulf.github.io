@@ -12,4 +12,4 @@ I am a post-bacc at the Allen Institute for Neural Dynamics on the multi-scale n
 
 Some of my other hobbies include playing guitar and piano, backpacking, paddleboarding, longboarding, making jewelry and art, watching movies, and cooking! 
 
-For more information about by work and accomplishments my CV can be found [here]()
+For more information about by work and accomplishments, my CV can be found [here]()
