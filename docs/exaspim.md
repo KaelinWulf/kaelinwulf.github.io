@@ -4,9 +4,7 @@ title: "ExA-SPIM"
 permalink: /exaspim/
 nav_exclude: true
 ---
-![ExA-SPIM Photo](/../images/IMG_2282.jpg)
-
-<br>
+![ExA-SPIM Photo](/../images/LowRes.jpg){: width="650"}
 
 
 The expansion assisted selective plane illumination microscope (ExA-SPIM) is a microscope developed at the Allen Institute for Neural dynamics. The aim of the ExA-SPIM project is to image large expanded mammalian brain tissue for the purpose of full neuron reconstruction.

@@ -6,14 +6,29 @@ order: 3
 ---
 
 #### [Expansion-assisted Selective Plane Illumination Microscopy (ExA-SPIM)](/exaspim/)
-![](/images/LowRes.jpg){: width="370"}{: border="1px solid #ccc"}
+<a href="{{ '/exaspim/' | relative_url }}" target="_blank">
+    <img src="{{ '/images/IMG_2282.jpg' | relative_url }}" 
+        alt="My PDF thumbnail"
+        style="width:370px; border:1px solid #ccc; border-radius:6px;">
+</a>
+
+<!-- ![](/images/IMG_2282.jpg){: width="370"}{: border="1px solid #ccc"} -->
 
 <br>
 
 #### [Glial Cell Dynamics in Zebrafish Optic Tectum Development](/tectum/)
-![](/images/WMAt1a5.png){: width="370" }{: border="1px solid #ccc"}
+<a href="{{ '/zebrafish/' | relative_url }}" target="_blank">
+    <img src="{{ '/images/WMAt1a5.png' | relative_url }}" 
+        alt="My PDF thumbnail"
+        style="width:370px; border:1px solid #ccc; border-radius:6px;">
+</a>
 
 <br>
 
 #### [Vocal Motor Circuit Anatomy in *Xenopus laevis*](/xenopus/)
-![](/images/xenopusIX.png){: width="370" }{: border="1px solid #ccc"}
+<a href="{{ '/xenopus/' | relative_url }}" target="_blank">
+    <img src="{{ '/images/xenopusIX.png' | relative_url }}" 
+        alt="My PDF thumbnail"
+        style="width:370px; border:1px solid #ccc; border-radius:6px;">
+</a>
+

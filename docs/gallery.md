@@ -5,7 +5,7 @@ permalink: /gallery/
 order: 4
 ---
 
-![](/../images/CyanHot_20.png){: width="365" }
+![](/../images/CyanHot_20.png){: width="365" }{: figcaption="test"}
 ![](/../images/CyanHot_24.png){: width="365" }
 
 ![](/../images/IMG_2365.jpg){: width="365" }
