@@ -42,12 +42,4 @@ I was interested in using the advantages of live-cell light-sheet timelapse micr
    src="/videos/WT_7dpf_stackScan.mp4"
    caption="3D stack of OPCs (green) and RGC terminals (magenta)"
    autoplay=false
-<<<<<<< HEAD
 %}
-=======
-%}
-
-<!-- ![](/images/WOAt3b2_multipart_60umStack (1).png) -->
-
-I was interested in using the advantages of live-cell light-sheet timelapse microscopy to visualize OPC localization, migration, anatomy, and how they interact with RGC axons. As well as how these aspects might be different without the presence of RGCs. In my thesis, I discovered and described in detail the migration of a subpopulation of OPCs alongside RGC axon growth into the OT, as well as differences in the number of OPCs and qualitative differences in structure between lak mutants and wildtype. If you’re interested in learning more, my thesis can be read [here](/pdfs/Thesis.pdf). Additionally, this work was presented as a poster at the North West Developmental Biology meeting which can be viewed [here](/pdfs/NWDB-2024-Poster.pdf). 
->>>>>>> 7edd4934324c9751d2b707a950743c7d79c58152
