@@ -9,18 +9,7 @@ order: 2
 <hr>
 
 <br><u>ExA-SPIM Beta Manuscript</u>:
-<br>"An optimized expansion-assisted selective plane illumination microscope for nanoscale imaging of centimeter scale tissues". Kaelin Wulf, Xiaoyun Jiang, Adam Glaser, et al (in preparation).
-
-<br>
-
-<a href="{{ 'https://www.protocols.io/view/exa-spim-imaging-protocol-g4xwbyxpf' | absolute_url }}" target="_blank">
-    <img src="{{ '/pdfs/thumbnails/protocol-thumb.jpg' | relative_url }}" 
-        align="right"
-        alt="My PDF thumbnail"
-        style="width:70px; border:1px solid #ccc; border-radius:8px;">
-</a>
-<u>ExA-SPIM Acquisiton Protocol</u>:
-<br>"Imaging Expanded Mouse Brains on the ExA-SPIM". Kaelin Wulf, Xiaoyun Jiang, Adam Glaser, et al.
+<br>Wulf, K., Jiang, X., Glaser, A., et al. "An optimized expansion-assisted selective plane illumination microscope for nanoscale imaging of centimeter scale tissues". (in preparation).
 
 <br>
 
@@ -31,7 +20,18 @@ order: 2
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
 <u>ExA-SPIM Construction and Documentation Wiki</u>:
-<br>"ExA-SPIM Beta Documentation". Kaelin Wulf
+<br>Wulf, K. "ExA-SPIM Beta Documentation". _GitHub.com_. (in-progress)
+
+<br>
+
+<a href="{{ 'https://www.protocols.io/view/exa-spim-imaging-protocol-g4xwbyxpf' | absolute_url }}" target="_blank">
+    <img src="{{ '/pdfs/thumbnails/protocol-thumb.jpg' | relative_url }}" 
+        align="right"
+        alt="My PDF thumbnail"
+        style="width:70px; border:1px solid #ccc; border-radius:8px;">
+</a>
+<u>ExA-SPIM Acquisiton Protocol</u>:
+<br>Wulf, K., Jiang, X., Glaser, A., et al. "Imaging Expanded Mouse Brains on the ExA-SPIM".  _Protocols.io_. 2025.
 
 <br>
 
@@ -42,7 +42,7 @@ order: 2
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
 <u>Undergraduate Thesis</u>:
-<br>*Glia Cell Dynamics in the Zebrafish Optic Tectum*. Kaelin Wulf 
+<br>Wulf, K. *Glia Cell Dynamics in the Zebrafish Optic Tectum*. [Bachelor's thesis, Reed College]. 2024.
 
 <br>
 
