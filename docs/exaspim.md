@@ -15,19 +15,19 @@ Reconstructing full mammalian neurons requires imaging full brain volumes at hig
 ![Alpha Scope Diagram 2]({{ "/images/alpha-diagram2.png" | absolute_url }}){: width="320" }
 <br> *Prototype ExA-SPIM optical path diagram and photograph*
 
-A prototype system was developed in 2023, but it used off-the-shelf components that resulted in design trade-offs and performance limitations. I joined the Allen Institute at the beginning of the summer in 2024 as the design for an improved ExA-SPIM microscope was being finalized (currently dubbed the ExA-SPIM Beta). The new design is based on custom machined parts that are precisely located relative to eachother using dowll pins. This makes the construction and alignment easier and more repeatable. The optical limitations of the prototype are addressed with a custom field curvature-corrected illumination objective and a custom acylindrical Powell lens that results in a uniform illumination profile. Additionally, the new design allows for dual sided illumination and more flexibility with maneuvering the sample.
+A prototype system was developed in 2023, but it used off-the-shelf components that resulted in design trade-offs and performance limitations. I joined the Allen Institute at the beginning of the summer in 2024 as the design for an improved ExA-SPIM microscope was being finalized. The new design is based on custom machined parts that are precisely located relative to eachother using dowll pins. This makes the construction and alignment easier and more repeatable. The optical limitations of the prototype are addressed with a custom field curvature-corrected illumination objective and a custom acylindrical Powell lens that results in a uniform illumination profile. Additionally, the new design allows for dual sided illumination and more flexibility with maneuvering the sample.
 
-![ExA-SPIM Beta](/images/beta.png){: width="550" }
+![ExA-SPIM Cad](/images/beta.png){: width="550" }
 <br> *Redesigned ExA-SPIM CAD showing features and improvements*
 
 Joining this project was somewhat of a pivot into engineering for me, but I was able to get caught up on the necessary information about optics, mechanical construction, and microscope software and hardware. As we prepared to build three ExA-SPIM microscopes, I was able to learn a lot of new skills such as soldering custom control cables, simple CAD design projects, part modifications using a manual mill, specifiying/purchasing parts, and lots of organizing and cataloguing screws to prepare for the builds. 
 {% include video.html
    src="/videos/timelapse.mp4"
-   caption="Timelapse of an ExA-SPIM Beta system being built"
+   caption="Timelapse of an ExA-SPIM system being built"
    autoplay=false
 %}
 
-We built three Beta systems total, but after finishing the first one, we realized that some aspects of the mechanical design needed to be reworked more to allow for additional degrees of freedom in the illumination path alignment. I employed temporary fixes with manual machining and 3D printed parts and then ordered new custom machined pieces that would fix the issues and complete the microscopes with both sides of illumination. With the subsequent builds 
+We built three redesigned systems total, but after finishing the first one, we realized that some aspects of the mechanical design needed to be reworked more to allow for additional degrees of freedom in the illumination path alignment. I employed temporary fixes with manual machining and 3D printed parts and then ordered new custom machined pieces that would fix the issues and complete the microscopes with both sides of illumination. With the subsequent builds 
 
 There are several limitations and tradeoffs with parts used in our configuration of the microscope, chiefly related to the high-powered free-space lasers from Coherent, and the Powell lenses that generate the sheet. As such, one of my main roles for the past year has been troubleshooting and perfecting the design, optics, alignment, and acquisition parameters of the microscope to counteract or work within these limitations. 
 
@@ -38,7 +38,7 @@ After being constructed, aligned, and optimized, the microscopes are capable of 
    autoplay=false
 %}
 
-In addition to the three Beta scopes which use a 5x zoom imaging objective, we have designed and built a lower resolution microscope using a 1x imaging objective and a greatly expanded light-sheet that can image 3x expanded mouse brains in a single tile in less than 30 minutes. This microscope is used for screening brains and doing simple experiments that don't require high resolution.
+In addition to the three ExA-SPIM microscopes which use a 5x zoom imaging objective, we have designed and built a lower resolution microscope using a 1x imaging objective and a greatly expanded light-sheet that can image 3x expanded mouse brains in a single tile in less than 30 minutes. This microscope is used for screening brains and doing simple experiments that don't require high resolution.
 {% include video.html
    src="/videos/1x-sheet.mp4"
    caption="Low-res 1x scope light-sheet scanning through expanded mouse brain"
@@ -48,7 +48,7 @@ In addition to the three Beta scopes which use a 5x zoom imaging objective, we h
 We are also in the process of prepairing to build a higher resolution microscope (ExA-SPIM 2.0) that will use four cameras to simulatneously image four color channels. This will be used as part of a large proteomics project at the Allen Institute led by Tim Wang.
 
 # Experiments
-We are currently preparing a manuscript for the ExA-SPIM Beta system. It will detail the specs and characterization of the microscope and the custom optical components contained within it, as well as discussion on alternative configurations of the microscope that can avoid the tradoffs of the Powell lenses and free-space lasers. 
+We are currently preparing a manuscript for the redesigned ExA-SPIM system. It will detail the specs and characterization of the microscope and the custom optical components contained within it, as well as discussion on alternative configurations of the microscope that can avoid the tradoffs of the Powell lenses and free-space lasers. 
 
 We will additionally showcase experiments related to tissue photobleaching and the attenuating effects of tissue expansion factor on image aberration. 
 
