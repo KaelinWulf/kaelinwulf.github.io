@@ -17,7 +17,7 @@ order: 3
 <br>
 
 #### [Glial Cell Dynamics in Zebrafish Optic Tectum Development](/tectum/)
-<a href="{{ '/zebrafish/' | relative_url }}" target="_blank">
+<a href="{{ '/tectum/' | relative_url }}" target="_blank">
     <img src="{{ '/images/WMAt1a5.png' | relative_url }}" 
         alt="My PDF thumbnail"
         style="width:370px; border:1px solid #ccc; border-radius:6px;">
