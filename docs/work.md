@@ -8,8 +8,7 @@ order: 2
 ### Written Works:
 <hr>
 
-<br>
-#### ExA-SPIM Beta Manuscript:
+<br>ExA-SPIM Beta Manuscript:
 <br>Wulf, K., Jiang, X., Glaser, A., et al. "An optimized expansion-assisted selective plane illumination microscope for nanoscale imaging of centimeter scale tissues". (in preparation).
 
 <br>
@@ -20,7 +19,7 @@ order: 2
         alt="My PDF thumbnail"
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
-#### ExA-SPIM Construction and Documentation Wiki:
+ExA-SPIM Construction and Documentation Wiki:
 <br>Wulf, K. "ExA-SPIM Beta Documentation". _GitHub.com_. (in-progress)
 
 <br>
@@ -31,7 +30,7 @@ order: 2
         alt="My PDF thumbnail"
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
-#### ExA-SPIM Acquisiton Protocol:
+ExA-SPIM Acquisiton Protocol:
 <br>Wulf, K., Jiang, X., Glaser, A., et al. "Imaging Expanded Mouse Brains on the ExA-SPIM".  _Protocols.io_. 2025.
 
 <br>
@@ -42,7 +41,7 @@ order: 2
         alt="My PDF thumbnail"
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
-#### Undergraduate Thesis:
+Undergraduate Thesis:
 <br>Wulf, K. *Glia Cell Dynamics in the Zebrafish Optic Tectum*. [Bachelor's thesis, Reed College]. 2024.
 
 <br>
