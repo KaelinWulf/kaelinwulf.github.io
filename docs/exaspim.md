@@ -45,7 +45,7 @@ In addition to the three ExA-SPIM microscopes which use a 5x zoom imaging object
    autoplay=false
 %}
 
-We are also in the process of prepairing to build a higher resolution microscope (ExA-SPIM 2.0) that will use four cameras to simulatneously image four color channels. This will be used as part of a large proteomics project at the Allen Institute led by Tim Wang.
+We are also in the process of prepairing to build a higher resolution microscope (ExA-SPIM 2.0) that will use four cameras to simultaneously image four color channels. This will be used as part of a large spacial omics project at the Allen Institute led by Tim Wang.
 
 # Experiments
 We are currently preparing a manuscript for the redesigned ExA-SPIM system. It will detail the specs and characterization of the microscope and the custom optical components contained within it, as well as discussion on alternative configurations of the microscope that can avoid the tradoffs of the Powell lenses and free-space lasers. 
