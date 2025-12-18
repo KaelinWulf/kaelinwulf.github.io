@@ -13,6 +13,11 @@ order: 2
 
 <br>
 
+<br>Optic Tectum Microglia Manuscript:
+<br>Wulf, K. and Nguyen, A.; Yue, J., Green, K., and Cerveny, K. “Tectal microglia show altered developmental dynamics in optic nerve degeneration zebrafish models”. (in preparation).
+
+<br>
+
 <a href="{{ 'https://github.com/KaelinWulf/ExA-SPIM_Beta_Documentation/wiki' | absolute_url }}" target="_blank">
     <img src="{{ '/pdfs/thumbnails/wiki-thumb.jpg' | relative_url }}" 
         align="right"
@@ -20,7 +25,7 @@ order: 2
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
 ExA-SPIM Construction and Documentation Wiki:
-<br>Wulf, K. "ExA-SPIM Beta Documentation". _GitHub.com_. (in-progress)
+<br>Wulf, K. "ExA-SPIM Beta Documentation". _GitHub.com_, https://github.com/KaelinWulf/ExA-SPIM_Beta_Documentation. (in-progress)
 
 <br>
 
@@ -31,7 +36,7 @@ ExA-SPIM Construction and Documentation Wiki:
         style="width:70px; border:1px solid #ccc; border-radius:8px;">
 </a>
 ExA-SPIM Acquisiton Protocol:
-<br>Wulf, K., Jiang, X., Glaser, A., et al. "Imaging Expanded Mouse Brains on the ExA-SPIM".  _Protocols.io_. 2025.
+<br>Wulf, K., Jiang, X., Glaser, A., et al. "Imaging Expanded Mouse Brains on the ExA-SPIM".  _Protocols.io_, http://dx.doi.org/10.17504/protocols.io.6qpvrwe33lmk/v1. 2025.
 
 <br>
 
